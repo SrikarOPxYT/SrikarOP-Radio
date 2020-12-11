@@ -1,6 +1,6 @@
 {
-"TOKEN": "Your Token here!",
-"Discord_Server_Id": "Your Server Id here!",
-"Live_Link": "Live Radio Link here!",
-"Discord_Channel_Id": "Your Voice Channel Id here!"
+"TOKEN": "Your Bot token",
+"Discord_Server_Id": "Discord serverid",
+"Live_Link": "Live stream link",
+"Discord_Channel_Id": "discord channel link"
 }
