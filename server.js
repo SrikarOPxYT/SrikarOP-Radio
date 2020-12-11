@@ -5,7 +5,7 @@ const ytdl = require('ytdl-core');
 
 client.on("ready", async () => {
   client.user.setActivity("Im Radio Bot :D")
-  let channel = client.channels.cache.get(CHANNEL) || await client.channels.fetch(CHANNEL)
+  let channel = client.channels.cache.get(Discord_Channel_Id) || await client.channels.fetch(Discord_Channel_Id)
   
   
   if (!channel) return;
